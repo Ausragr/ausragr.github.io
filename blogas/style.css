@@ -1,0 +1,85 @@
+body{
+    background-color: #fff2e6;
+}
+a{
+    text-decoration: none;
+    color: #4d2600;
+}
+
+
+.antraste{
+    background-color: #ffe6cc;
+    padding: 15px;
+    margin-top: 5px;
+    width: auto;
+    height: 45px;
+}
+.pavadinimas{
+    display:block;
+    float: left;
+    width: auto;
+    height: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+.apie{
+    display:block;
+    float: right;
+    width: auto;
+    height: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+
+
+.straipsnis{
+    background-color: #ffe6cc;
+    margin: auto;
+    padding: 15px;
+    margin-top: 5px;
+    width: 680px;
+    height: 300px;
+  }
+.article_foto{
+    display: block;
+    float: left;
+    width: 280px;
+    height: 280px;
+}
+img{
+    height: 260px;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: normal;
+}
+.article_antraste{
+    display:block;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    float: right;
+    background-color: #ffe6cc;
+    width: 400px;
+    height: 50px;
+}
+.article_tekstas
+{
+    display:block;
+    float: right;
+    background-color: #ffe6cc;
+    width: 380px;
+    height: 230px;
+    text-align: justify;
+}
+.article_data{
+    display:block;
+    float: right;
+    text-align: right;
+    background-color: #ffe6cc;
+    width: 680px;
+    height: 20px;
+}
